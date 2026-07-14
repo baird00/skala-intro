@@ -1,7 +1,7 @@
 # 파이썬 컴파일 파일 (Byte-compiled / optimized / DLLfiles)
 __pycache__/
 *.py[cod]
-*$py.class
+*py.class
 
 # 가상환경 폴더 (Virtual Environments)
 venv/
