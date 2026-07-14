@@ -16,5 +16,5 @@ dist/
 .vscode/
 .idea/
 
-# 맥(Mac) 시스템 파일
+# 맥(Mac) 시스템 파일12
 .DS_Store
